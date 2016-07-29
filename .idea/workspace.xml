@@ -22,7 +22,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="stack.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/stack.js">
+        <entry file="file://$PROJECT_DIR$/../ds-and-algo/stack.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1520">
               <caret line="82" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
@@ -34,7 +34,7 @@
         </entry>
       </file>
       <file leaf-file-name="queue.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/queue.js">
+        <entry file="file://$PROJECT_DIR$/../ds-and-algo/queue.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="684">
               <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
@@ -46,7 +46,7 @@
         </entry>
       </file>
       <file leaf-file-name="recursion.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/recursion.js">
+        <entry file="file://$PROJECT_DIR$/../ds-and-algo/recursion.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
               <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
@@ -58,7 +58,7 @@
         </entry>
       </file>
       <file leaf-file-name="bubble.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/bubble.js">
+        <entry file="file://$PROJECT_DIR$/../ds-and-algo/bubble.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="589">
               <caret line="33" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
@@ -68,7 +68,7 @@
         </entry>
       </file>
       <file leaf-file-name="insertion.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/insertion.js">
+        <entry file="file://$PROJECT_DIR$/../ds-and-algo/insertion.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
               <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
@@ -78,7 +78,7 @@
         </entry>
       </file>
       <file leaf-file-name="quicksort.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/quicksort.js">
+        <entry file="file://$PROJECT_DIR$/../ds-and-algo/quicksort.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
               <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
@@ -87,13 +87,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="linkedlist.js" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/linkedlist.js">
+      <file leaf-file-name="linkedlist.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ds-and-algo/linkedlist.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1387">
               <caret line="75" column="4" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../ds-and-algo/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ds-and-algo/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="494">
+                <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -111,16 +137,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/WebstormProjects/Basic Website/main.css" />
-        <option value="$USER_HOME$/WebstormProjects/Basic Website/stack.js" />
-        <option value="$USER_HOME$/WebstormProjects/Basic Website/queue.js" />
-        <option value="$USER_HOME$/WebstormProjects/Basic Website/recursion.js" />
-        <option value="$USER_HOME$/WebstormProjects/Basic Website/bubble.js" />
-        <option value="$USER_HOME$/WebstormProjects/Basic Website/insertion.js" />
+        <option value="$PROJECT_DIR$/main.css" />
+        <option value="$PROJECT_DIR$/stack.js" />
+        <option value="$PROJECT_DIR$/queue.js" />
+        <option value="$PROJECT_DIR$/recursion.js" />
+        <option value="$PROJECT_DIR$/bubble.js" />
+        <option value="$PROJECT_DIR$/insertion.js" />
         <option value="internal/util.js" />
-        <option value="$USER_HOME$/WebstormProjects/Basic Website/index.html" />
-        <option value="$USER_HOME$/WebstormProjects/Basic Website/quicksort.js" />
-        <option value="$USER_HOME$/WebstormProjects/Basic Website/linkedlist.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/quicksort.js" />
+        <option value="$PROJECT_DIR$/linkedlist.js" />
+        <option value="$PROJECT_DIR$/../ds-and-algo/readme.md" />
+        <option value="$PROJECT_DIR$/../ds-and-algo/.gitignore" />
       </list>
     </option>
   </component>
@@ -166,6 +194,12 @@
               <option name="myItemId" value="Basic Website" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Basic Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ds-and-algo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -185,15 +219,16 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="FullScreen" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codewars/readme.md" />
   </component>
   <component name="RunManager" selected="Node.js.quicksort.js">
-    <configuration default="false" name="stack.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$USER_HOME$/WebstormProjects/ds-and-algo/stack.js" working-dir="$USER_HOME$/WebstormProjects/ds-and-algo">
+    <configuration default="false" name="stack.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/../ds-and-algo/stack.js" working-dir="$PROJECT_DIR$/../ds-and-algo">
       <method />
     </configuration>
-    <configuration default="false" name="queue.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$USER_HOME$/WebstormProjects/ds-and-algo/queue.js" working-dir="$USER_HOME$/WebstormProjects/ds-and-algo">
+    <configuration default="false" name="queue.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/../ds-and-algo/queue.js" working-dir="$PROJECT_DIR$/../ds-and-algo">
       <method />
     </configuration>
-    <configuration default="false" name="quicksort.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$USER_HOME$/WebstormProjects/ds-and-algo/quicksort.js" working-dir="$USER_HOME$/WebstormProjects/ds-and-algo">
+    <configuration default="false" name="quicksort.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/../ds-and-algo/quicksort.js" working-dir="$PROJECT_DIR$/../ds-and-algo">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -276,18 +311,18 @@
       <option name="presentableId" value="Default" />
       <updated>1465731709961</updated>
       <workItem from="1465731711926" duration="17372000" />
-      <workItem from="1469822182342" duration="213000" />
+      <workItem from="1469822182342" duration="759000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17585000" />
+    <option name="totallyTimeSpent" value="18131000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1265625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1265625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -320,7 +355,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$USER_HOME$/WebstormProjects/ds-and-algo/quicksort.js</url>
+          <url>file://$PROJECT_DIR$/../ds-and-algo/quicksort.js</url>
           <line>60</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
@@ -337,7 +372,7 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/WebstormProjects/Basic Website/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="59" />
@@ -345,7 +380,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/stack.js">
+    <entry file="file://$PROJECT_DIR$/../ds-and-algo/stack.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1520">
           <caret line="82" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
@@ -355,7 +390,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/queue.js">
+    <entry file="file://$PROJECT_DIR$/../ds-and-algo/queue.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
@@ -365,7 +400,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/recursion.js">
+    <entry file="file://$PROJECT_DIR$/../ds-and-algo/recursion.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
@@ -375,7 +410,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/bubble.js">
+    <entry file="file://$PROJECT_DIR$/../ds-and-algo/bubble.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="33" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
@@ -383,7 +418,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/insertion.js">
+    <entry file="file://$PROJECT_DIR$/../ds-and-algo/insertion.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
@@ -391,7 +426,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/quicksort.js">
+    <entry file="file://$PROJECT_DIR$/../ds-and-algo/quicksort.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
@@ -399,7 +434,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/linkedlist.js">
+    <entry file="file://$PROJECT_DIR$/../ds-and-algo/linkedlist.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -407,7 +442,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/Basic Website/main.css">
+    <entry file="file://$PROJECT_DIR$/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -415,7 +450,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/insertion.js">
+    <entry file="file://$PROJECT_DIR$/../ds-and-algo/insertion.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
@@ -423,7 +458,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/queue.js">
+    <entry file="file://$PROJECT_DIR$/../ds-and-algo/queue.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
@@ -433,7 +468,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/stack.js">
+    <entry file="file://$PROJECT_DIR$/../ds-and-algo/stack.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1520">
           <caret line="82" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
@@ -443,7 +478,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/recursion.js">
+    <entry file="file://$PROJECT_DIR$/../ds-and-algo/recursion.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
@@ -453,7 +488,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/bubble.js">
+    <entry file="file://$PROJECT_DIR$/../ds-and-algo/bubble.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="33" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
@@ -461,7 +496,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/quicksort.js">
+    <entry file="file://$PROJECT_DIR$/../ds-and-algo/quicksort.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
@@ -469,7 +504,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/ds-and-algo/linkedlist.js">
+    <entry file="file://$PROJECT_DIR$/../ds-and-algo/linkedlist.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1387">
           <caret line="75" column="4" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
@@ -477,7 +512,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/Basic Website/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="59" />
@@ -485,10 +520,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/Basic Website/main.css">
+    <entry file="file://$PROJECT_DIR$/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../codewars/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="228">
+            <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ds-and-algo/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="494">
+            <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ds-and-algo/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
